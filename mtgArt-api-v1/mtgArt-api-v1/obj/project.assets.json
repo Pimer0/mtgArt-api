@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paulmerandon/RiderProjects/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
+      "projectUniqueName": "/Users/paulmerandon/RiderProjects/mtgArt-api/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
       "projectName": "mtgArt-api-v1",
-      "projectPath": "/Users/paulmerandon/RiderProjects/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
+      "projectPath": "/Users/paulmerandon/RiderProjects/mtgArt-api/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
       "packagesPath": "/Users/paulmerandon/.nuget/packages/",
-      "outputPath": "/Users/paulmerandon/RiderProjects/mtgArt-api-v1/mtgArt-api-v1/obj/",
+      "outputPath": "/Users/paulmerandon/RiderProjects/mtgArt-api/mtgArt-api-v1/mtgArt-api-v1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/paulmerandon/.nuget/NuGet/NuGet.Config"

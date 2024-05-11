@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XGFu6lfDSZT/tCaTQ8Z+0YXxT1xEJ7wpWTz2I6jVTqRMR2+rzE3Lbps1lvRzfI2nvWMdlaUnNGX55e+zH+C/gA==",
+  "dgSpecHash": "4okLyyuOiGNdALCBH/0qVp5P4sOB7NWduN/3OR7P9AbCQaKJmlKFesLgNAfzyzKTvpMDG/wzoNvFP5Eu6VM2DA==",
   "success": true,
-  "projectFilePath": "/Users/paulmerandon/RiderProjects/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
+  "projectFilePath": "/Users/paulmerandon/RiderProjects/mtgArt-api/mtgArt-api-v1/mtgArt-api-v1/mtgArt-api-v1.csproj",
   "expectedPackageFiles": [
     "/Users/paulmerandon/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "/Users/paulmerandon/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

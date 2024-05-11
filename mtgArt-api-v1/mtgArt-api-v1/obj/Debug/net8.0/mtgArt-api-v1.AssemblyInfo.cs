@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mtgArt-api-v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af525962c293391057e216c27c6e71d6a496b701")]
 [assembly: System.Reflection.AssemblyProductAttribute("mtgArt-api-v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mtgArt-api-v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
