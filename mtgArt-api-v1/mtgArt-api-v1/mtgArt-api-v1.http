@@ -1,0 +1,6 @@
+@mtgArt_api_v1_HostAddress = http://localhost:5038
+
+GET {{mtgArt_api_v1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
